@@ -1,23 +1,28 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="Scripts/GameManger.cs">
     <Files>
-      <File FileName="Block.cs" Line="11" Column="38" />
-      <File FileName="GameManger.cs" Line="25" Column="51" />
+      <File FileName="Scripts/GameManger.cs" Line="247" Column="27" />
+      <File FileName="Scripts/Block.cs" Line="51" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sliding Puzzle" expanded="True">
-            <Node name="Sliding Puzzle" expanded="True" />
+            <Node name="Sliding Puzzle" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
